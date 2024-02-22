@@ -1,6 +1,6 @@
 body {
   background-color: #f8f9fa;
-  color: #343a40;
+  color: #495057;
 }
 
 nav.navbar {
@@ -10,6 +10,9 @@ nav.navbar {
 
 .card {
   margin: 20px 0;
+  background-color: #ffffff; /* Set the card background color */
+  border: 1px solid #e0e0e0; /* Add a subtle border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
 }
 
 footer {
