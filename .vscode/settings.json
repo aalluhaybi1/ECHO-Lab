@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.useLocalIp": true
+}
